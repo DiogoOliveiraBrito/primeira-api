@@ -1,0 +1,14 @@
+spring.application.name=primeira_api
+
+# Configuração do PostgreSQL para conexão
+spring.datasource.url=jdbc:postgresql://localhost:5432/spring
+spring.datasource.driverClassName=org.postgresql.Driver
+
+# Defina estas variáveis de ambiente no seu sistema operacional
+spring.datasource.username=${DB_USERNAME}
+spring.datasource.password=${DB_PASSWORD}
+
+# Configurações do JPA e Hibernate
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
