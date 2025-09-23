@@ -1,4 +1,4 @@
-# Minha Primeira API REST com Spring Boot
+# Primeira API REST com Spring Boot
 
 Este é um projeto de exemplo de uma API REST para gerenciamento de pessoas, construída com Spring Boot.
 
@@ -19,7 +19,7 @@ Este projeto utiliza o PostgreSQL. Siga os passos abaixo para configurá-lo.
 
 1.  **Clone o repositório**:
     ```bash
-    git clone [https://github.com/seu-usuario/minha-primeira-api.git](https://github.com/seu-usuario/minha-primeira-api.git)
+    git clone [https://github.com/DiogoOliveiraBrito/primeira-api.git](https://github.com/DiogoOliveiraBrito/primeira-api.git)
     ```
 
 2.  **Crie o banco de dados**:
